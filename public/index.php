@@ -1,9 +1,14 @@
+
+<h1>Hello</h1>
+
 <?php
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
+
+
 
 /*
 |--------------------------------------------------------------------------
